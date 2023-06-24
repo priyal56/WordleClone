@@ -1,9 +1,11 @@
 # Wordle Clone
 ---  
 ### Developed a Wordle Clone game using React
-
+# Wordle Game
 ![Wordle Game](https://github.com/priyal56/WordleClone/assets/81141125/dda00629-41f7-47c7-bb16-12ca674d3876)
+# Word Gussed Incorrectly
 ![Word Gussed Incorrectly](https://github.com/priyal56/WordleClone/assets/81141125/181dd99e-b590-4139-9333-e45fa8858062)
+# Actual Word
 ![Actual Word](https://github.com/priyal56/WordleClone/assets/81141125/4417d15e-3eaf-49ce-aaac-9bf0665eb1b7)
 
 # Getting Started with Create React App
